@@ -1,0 +1,2 @@
+This project is a UI/UX design of a study management application created using Figma. The app is designed to help students organize their studies by managing schedules, tracking tasks, and monitoring academic progress.
+It also includes an AI assistance feature concept to provide personalized study recommendations, reminders, and productivity support. A presentation file is included to explain the design flow, features, and use cases.
